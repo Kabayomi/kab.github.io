@@ -1,4 +1,5 @@
 +++
+	{{ with .Site.Params.sidebar.bio }}
 banner = "banners/placeholder.png"
 categories = ["Ipsum"]
 date = "2015-09-17T13:47:08+02:00"
